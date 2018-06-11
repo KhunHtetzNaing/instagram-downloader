@@ -1,6 +1,8 @@
 # Simple Instagram Photos & Videos downloader with php!
 
-- This code will return real download url and type(Photo or video) with json format!
+- This script will return real download url and type(Photo or video) with json format!
+{"url":"RealDlLink","type":"photo_OR_video")
+
 - Requries 1 parameter ?url=YOUR_INSTAGRAM_PHOTO_OR_VIDEO_LINK
   (Eg: app.htetznaing.com/idl/index.php?url=https://www.instagram.com/p/Bj2qct5jKHP)
   
