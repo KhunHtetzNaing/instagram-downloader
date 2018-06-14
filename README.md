@@ -8,4 +8,4 @@
 
   (Eg: app.htetznaing.com/idl/index.php?url=https://www.instagram.com/p/Bj2qct5jKHP)
   
-  Get Code Here => https://github.com/KhunHtetzNaing/instagram-downloader/index.php <=
+  Get Code Here => https://github.com/KhunHtetzNaing/instagram-downloader/blob/master/index.php
