@@ -2,6 +2,7 @@
 -No need any api from instagram!
 
 - This script will return real download url and type(Photo or video) with json format!
+
 [
   {
     "video": "true_OR_false",
