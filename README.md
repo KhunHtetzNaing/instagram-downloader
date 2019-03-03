@@ -2,7 +2,12 @@
 -No need any api from instagram!
 
 - This script will return real download url and type(Photo or video) with json format!
-{"url":"RealDlLink","type":"photo_OR_video"}
+[
+  {
+    "video": "true_OR_false",
+    "url": "RealDlLink"
+  }
+]
 
 - Requries 1 parameter ?url=YOUR_INSTAGRAM_PHOTO_OR_VIDEO_LINK
 
