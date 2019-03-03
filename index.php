@@ -29,5 +29,6 @@ if(isset($data['edge_sidecar_to_children'])){
     }
     $output[] = $temp;
 }
-echo json_encode($output);
+header('Content-Type: application/json');
+echo json_encode($output,JSON_PRETTY_PRINT);
 ?>
